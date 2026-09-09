@@ -26,7 +26,6 @@ Demand peaked at roughly 23,677 MW on August 7 at 6 PM, likely reflecting evenin
 
 Most hours sit between 12,000 and 16,000 MW, with only 28 hours out of 744 climbing above 20,000 MW.
 
-➜ One sentence: where do most hours sit, and how many hours were above 20,000 MW?
 
 ## 5. (Optional) Demand vs temperature
 
